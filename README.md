@@ -22,6 +22,7 @@ Table of Contents
 * [**dash**](https://github.com/dlvhdr/gh-dash) - Extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
 * [**label**](https://github.com/heaths/gh-label) - Extension for issue label management.
 * [**notify**](https://github.com/meiji163/gh-notify) - Extension to display GitHub notifications.
+* [**metrics**](https://github.com/hectcastro/gh-metrics) - Extension that provides summary pull request metrics.
 * [**milestone**](https://github.com/valeriobelli/gh-milestone) - GitHub CLI extension for managing milestones.
 * [**pulls**](https://github.com/AaronMoat/gh-pulls) - View all open pull requests you have created.
 * [**sql**](https://github.com/KOBA789/gh-sql) -  Query GitHub Projects (beta) with SQL.
